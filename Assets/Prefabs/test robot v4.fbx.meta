@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 2022fac0034a94aedb950bae7ad8a447
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: KR_120_R2700_HA:A
+    100002: KR_120_R2700_HA:A 1
+    100004: KR_120_R2700_HA:A 2
+    100006: KR_120_R2700_HA:a1FK_CTRL
+    100008: KR_120_R2700_HA:a1LimitBackground
+    100010: KR_120_R2700_HA:a1LimitBar
+    100012: KR_120_R2700_HA:a1limitBar
+    100014: KR_120_R2700_HA:a1limitEndNeg
+    100016: KR_120_R2700_HA:a1limitEndPos
+    100018: KR_120_R2700_HA:a2FK_CTRL
+    100020: KR_120_R2700_HA:a2LimitBackground
+    100022: KR_120_R2700_HA:a2LimitBar
+    100024: KR_120_R2700_HA:a2limitBar
+    100026: KR_120_R2700_HA:a2limitEndNeg
+    100028: KR_120_R2700_HA:a2limitEndPos
+    100030: KR_120_R2700_HA:a3FK_CTRL
+    100032: KR_120_R2700_HA:a3LimitBackground
+    100034: KR_120_R2700_HA:a3LimitBar
+    100036: KR_120_R2700_HA:a3limitBar
+    100038: KR_120_R2700_HA:a3limitEndNeg
+    100040: KR_120_R2700_HA:a3limitEndPos
+    100042: KR_120_R2700_HA:a4FK_CTRL
+    100044: KR_120_R2700_HA:a4LimitBackground
+    100046: KR_120_R2700_HA:a4LimitBar
+    100048: KR_120_R2700_HA:a4limitBar
+    100050: KR_120_R2700_HA:a4limitEndNeg
+    100052: KR_120_R2700_HA:a4limitEndPos
+    100054: KR_120_R2700_HA:a5alimitBar
+    100056: KR_120_R2700_HA:a5FK_CTRL
+    100058: KR_120_R2700_HA:a5LimitBackground
+    100060: KR_120_R2700_HA:a5LimitBar
+    100062: KR_120_R2700_HA:a5limitEndNeg
+    100064: KR_120_R2700_HA:a5limitEndPos
+    100066: KR_120_R2700_HA:a6FK_CTRL
+    100068: KR_120_R2700_HA:a6LimitBackground
+    100070: KR_120_R2700_HA:a6LimitBar
+    100072: KR_120_R2700_HA:a6limitBar
+    100074: KR_120_R2700_HA:a6limitEndNeg
+    100076: KR_120_R2700_HA:a6limitEndPos
+    100078: KR_120_R2700_HA:axis1
+    100080: KR_120_R2700_HA:axis1_GEOM
+    100082: KR_120_R2700_HA:axis2
+    100084: KR_120_R2700_HA:axis2_GEOM
+    100086: KR_120_R2700_HA:axis3
+    100088: KR_120_R2700_HA:axis3_GEOM
+    100090: KR_120_R2700_HA:axis4
+    100092: KR_120_R2700_HA:axis4_GEOM
+    100094: KR_120_R2700_HA:axis5
+    100096: KR_120_R2700_HA:axis5_GEOM
+    100098: KR_120_R2700_HA:axis6
+    100100: KR_120_R2700_HA:axis6_GEOM
+    100102: KR_120_R2700_HA:Base
+    100104: KR_120_R2700_HA:base_GEOM
+    100106: KR_120_R2700_HA:box
+    100108: KR_120_R2700_HA:cylinder
+    100110: KR_120_R2700_HA:degLine_0
+    100112: KR_120_R2700_HA:degLine_180
+    100114: KR_120_R2700_HA:degLine_360
+    100116: KR_120_R2700_HA:degLine_minus180
+    100118: KR_120_R2700_HA:degLine_minus360
+    100120: KR_120_R2700_HA:FK_CTRLS
+    100122: KR_120_R2700_HA:K_1
+    100124: KR_120_R2700_HA:K_1 1
+    100126: KR_120_R2700_HA:K_1 2
+    100128: KR_120_R2700_HA:K_2
+    100130: KR_120_R2700_HA:K_2 1
+    100132: KR_120_R2700_HA:K_2 2
+    100134: KR_120_R2700_HA:limitMeter_CTRL
+    100136: KR_120_R2700_HA:limitMeter_GRP
+    100138: KR_120_R2700_HA:local_CTRL
+    100140: KR_120_R2700_HA:logo
+    100142: KR_120_R2700_HA:logo_1
+    100144: KR_120_R2700_HA:logo_2
+    100146: KR_120_R2700_HA:main
+    100148: KR_120_R2700_HA:main 1
+    100150: KR_120_R2700_HA:main 2
+    100152: KR_120_R2700_HA:main 3
+    100154: KR_120_R2700_HA:main 4
+    100156: KR_120_R2700_HA:main 5
+    100158: KR_120_R2700_HA:main 6
+    100160: KR_120_R2700_HA:motor_1
+    100162: KR_120_R2700_HA:motor_1 1
+    100164: KR_120_R2700_HA:motor_2
+    100166: KR_120_R2700_HA:motor_2 1
+    100168: KR_120_R2700_HA:motor_3
+    100170: KR_120_R2700_HA:nurbsToPoly1093
+    100172: KR_120_R2700_HA:nurbsToPoly1353
+    100174: KR_120_R2700_HA:nurbsToPoly1582
+    100176: KR_120_R2700_HA:nurbsToPoly1801
+    100178: KR_120_R2700_HA:nurbsToPoly212
+    100180: KR_120_R2700_HA:nurbsToPoly269
+    100182: KR_120_R2700_HA:nurbsToPoly326
+    100184: KR_120_R2700_HA:nurbsToPoly352
+    100186: KR_120_R2700_HA:nurbsToPoly421
+    100188: KR_120_R2700_HA:nurbsToPoly47
+    100190: KR_120_R2700_HA:nurbsToPoly491
+    100192: KR_120_R2700_HA:nurbsToPoly561
+    100194: KR_120_R2700_HA:nurbsToPoly631
+    100196: KR_120_R2700_HA:nurbsToPoly802
+    100198: KR_120_R2700_HA:nurbsToPoly845
+    100200: KR_120_R2700_HA:nurbsToPoly878
+    100202: KR_120_R2700_HA:robot_GEOM
+    100204: KR_120_R2700_HA:robot_GRP
+    100206: KR_120_R2700_HA:rod
+    100208: KR_120_R2700_HA:target_CTRL
+    100210: KR_120_R2700_HA:target_HDL
+    100212: KR_120_R2700_HA:tcp_GRP
+    100214: KR_120_R2700_HA:tcp_HDL
+    100216: KR_120_R2700_HA:tool_CTRL
+    100218: KR_120_R2700_HA:tool_CTRL_FK
+    100220: KR_120_R2700_HA:U
+    100222: KR_120_R2700_HA:U 1
+    100224: KR_120_R2700_HA:U 2
+    100226: KR_120_R2700_HA:world_CTRL
+    100228: //RootNode
+    400000: KR_120_R2700_HA:A
+    400002: KR_120_R2700_HA:A 1
+    400004: KR_120_R2700_HA:A 2
+    400006: KR_120_R2700_HA:a1FK_CTRL
+    400008: KR_120_R2700_HA:a1LimitBackground
+    400010: KR_120_R2700_HA:a1LimitBar
+    400012: KR_120_R2700_HA:a1limitBar
+    400014: KR_120_R2700_HA:a1limitEndNeg
+    400016: KR_120_R2700_HA:a1limitEndPos
+    400018: KR_120_R2700_HA:a2FK_CTRL
+    400020: KR_120_R2700_HA:a2LimitBackground
+    400022: KR_120_R2700_HA:a2LimitBar
+    400024: KR_120_R2700_HA:a2limitBar
+    400026: KR_120_R2700_HA:a2limitEndNeg
+    400028: KR_120_R2700_HA:a2limitEndPos
+    400030: KR_120_R2700_HA:a3FK_CTRL
+    400032: KR_120_R2700_HA:a3LimitBackground
+    400034: KR_120_R2700_HA:a3LimitBar
+    400036: KR_120_R2700_HA:a3limitBar
+    400038: KR_120_R2700_HA:a3limitEndNeg
+    400040: KR_120_R2700_HA:a3limitEndPos
+    400042: KR_120_R2700_HA:a4FK_CTRL
+    400044: KR_120_R2700_HA:a4LimitBackground
+    400046: KR_120_R2700_HA:a4LimitBar
+    400048: KR_120_R2700_HA:a4limitBar
+    400050: KR_120_R2700_HA:a4limitEndNeg
+    400052: KR_120_R2700_HA:a4limitEndPos
+    400054: KR_120_R2700_HA:a5alimitBar
+    400056: KR_120_R2700_HA:a5FK_CTRL
+    400058: KR_120_R2700_HA:a5LimitBackground
+    400060: KR_120_R2700_HA:a5LimitBar
+    400062: KR_120_R2700_HA:a5limitEndNeg
+    400064: KR_120_R2700_HA:a5limitEndPos
+    400066: KR_120_R2700_HA:a6FK_CTRL
+    400068: KR_120_R2700_HA:a6LimitBackground
+    400070: KR_120_R2700_HA:a6LimitBar
+    400072: KR_120_R2700_HA:a6limitBar
+    400074: KR_120_R2700_HA:a6limitEndNeg
+    400076: KR_120_R2700_HA:a6limitEndPos
+    400078: KR_120_R2700_HA:axis1
+    400080: KR_120_R2700_HA:axis1_GEOM
+    400082: KR_120_R2700_HA:axis2
+    400084: KR_120_R2700_HA:axis2_GEOM
+    400086: KR_120_R2700_HA:axis3
+    400088: KR_120_R2700_HA:axis3_GEOM
+    400090: KR_120_R2700_HA:axis4
+    400092: KR_120_R2700_HA:axis4_GEOM
+    400094: KR_120_R2700_HA:axis5
+    400096: KR_120_R2700_HA:axis5_GEOM
+    400098: KR_120_R2700_HA:axis6
+    400100: KR_120_R2700_HA:axis6_GEOM
+    400102: KR_120_R2700_HA:Base
+    400104: KR_120_R2700_HA:base_GEOM
+    400106: KR_120_R2700_HA:box
+    400108: KR_120_R2700_HA:cylinder
+    400110: KR_120_R2700_HA:degLine_0
+    400112: KR_120_R2700_HA:degLine_180
+    400114: KR_120_R2700_HA:degLine_360
+    400116: KR_120_R2700_HA:degLine_minus180
+    400118: KR_120_R2700_HA:degLine_minus360
+    400120: KR_120_R2700_HA:FK_CTRLS
+    400122: KR_120_R2700_HA:K_1
+    400124: KR_120_R2700_HA:K_1 1
+    400126: KR_120_R2700_HA:K_1 2
+    400128: KR_120_R2700_HA:K_2
+    400130: KR_120_R2700_HA:K_2 1
+    400132: KR_120_R2700_HA:K_2 2
+    400134: KR_120_R2700_HA:limitMeter_CTRL
+    400136: KR_120_R2700_HA:limitMeter_GRP
+    400138: KR_120_R2700_HA:local_CTRL
+    400140: KR_120_R2700_HA:logo
+    400142: KR_120_R2700_HA:logo_1
+    400144: KR_120_R2700_HA:logo_2
+    400146: KR_120_R2700_HA:main
+    400148: KR_120_R2700_HA:main 1
+    400150: KR_120_R2700_HA:main 2
+    400152: KR_120_R2700_HA:main 3
+    400154: KR_120_R2700_HA:main 4
+    400156: KR_120_R2700_HA:main 5
+    400158: KR_120_R2700_HA:main 6
+    400160: KR_120_R2700_HA:motor_1
+    400162: KR_120_R2700_HA:motor_1 1
+    400164: KR_120_R2700_HA:motor_2
+    400166: KR_120_R2700_HA:motor_2 1
+    400168: KR_120_R2700_HA:motor_3
+    400170: KR_120_R2700_HA:nurbsToPoly1093
+    400172: KR_120_R2700_HA:nurbsToPoly1353
+    400174: KR_120_R2700_HA:nurbsToPoly1582
+    400176: KR_120_R2700_HA:nurbsToPoly1801
+    400178: KR_120_R2700_HA:nurbsToPoly212
+    400180: KR_120_R2700_HA:nurbsToPoly269
+    400182: KR_120_R2700_HA:nurbsToPoly326
+    400184: KR_120_R2700_HA:nurbsToPoly352
+    400186: KR_120_R2700_HA:nurbsToPoly421
+    400188: KR_120_R2700_HA:nurbsToPoly47
+    400190: KR_120_R2700_HA:nurbsToPoly491
+    400192: KR_120_R2700_HA:nurbsToPoly561
+    400194: KR_120_R2700_HA:nurbsToPoly631
+    400196: KR_120_R2700_HA:nurbsToPoly802
+    400198: KR_120_R2700_HA:nurbsToPoly845
+    400200: KR_120_R2700_HA:nurbsToPoly878
+    400202: KR_120_R2700_HA:robot_GEOM
+    400204: KR_120_R2700_HA:robot_GRP
+    400206: KR_120_R2700_HA:rod
+    400208: KR_120_R2700_HA:target_CTRL
+    400210: KR_120_R2700_HA:target_HDL
+    400212: KR_120_R2700_HA:tcp_GRP
+    400214: KR_120_R2700_HA:tcp_HDL
+    400216: KR_120_R2700_HA:tool_CTRL
+    400218: KR_120_R2700_HA:tool_CTRL_FK
+    400220: KR_120_R2700_HA:U
+    400222: KR_120_R2700_HA:U 1
+    400224: KR_120_R2700_HA:U 2
+    400226: KR_120_R2700_HA:world_CTRL
+    400228: //RootNode
+    2100000: KR_120_R2700_HA_KUKA_MAT
+    2100002: KR_120_R2700_HA_J1Output_MAT
+    2100004: KR_120_R2700_HA_J2Output_MAT
+    2100006: KR_120_R2700_HA_J3Output_MAT
+    2100008: KR_120_R2700_HA_J4Output_MAT
+    2100010: KR_120_R2700_HA_J5Output_MAT
+    2100012: KR_120_R2700_HA_J6Output_MAT
+    2100014: lambert1
+    2100016: KR_120_R2700_HA_limitMeter_MAT
+    2100018: KR_120_R2700_HA_limitBar_MAT
+    2300000: KR_120_R2700_HA:A
+    2300002: KR_120_R2700_HA:A 1
+    2300004: KR_120_R2700_HA:A 2
+    2300006: KR_120_R2700_HA:a1LimitBackground
+    2300008: KR_120_R2700_HA:a1limitBar
+    2300010: KR_120_R2700_HA:a1limitEndNeg
+    2300012: KR_120_R2700_HA:a1limitEndPos
+    2300014: KR_120_R2700_HA:a2LimitBackground
+    2300016: KR_120_R2700_HA:a2limitBar
+    2300018: KR_120_R2700_HA:a2limitEndNeg
+    2300020: KR_120_R2700_HA:a2limitEndPos
+    2300022: KR_120_R2700_HA:a3LimitBackground
+    2300024: KR_120_R2700_HA:a3limitBar
+    2300026: KR_120_R2700_HA:a3limitEndNeg
+    2300028: KR_120_R2700_HA:a3limitEndPos
+    2300030: KR_120_R2700_HA:a4LimitBackground
+    2300032: KR_120_R2700_HA:a4limitBar
+    2300034: KR_120_R2700_HA:a4limitEndNeg
+    2300036: KR_120_R2700_HA:a4limitEndPos
+    2300038: KR_120_R2700_HA:a5alimitBar
+    2300040: KR_120_R2700_HA:a5LimitBackground
+    2300042: KR_120_R2700_HA:a5limitEndNeg
+    2300044: KR_120_R2700_HA:a5limitEndPos
+    2300046: KR_120_R2700_HA:a6LimitBackground
+    2300048: KR_120_R2700_HA:a6limitBar
+    2300050: KR_120_R2700_HA:a6limitEndNeg
+    2300052: KR_120_R2700_HA:a6limitEndPos
+    2300054: KR_120_R2700_HA:K_1
+    2300056: KR_120_R2700_HA:K_1 1
+    2300058: KR_120_R2700_HA:K_1 2
+    2300060: KR_120_R2700_HA:K_2
+    2300062: KR_120_R2700_HA:K_2 1
+    2300064: KR_120_R2700_HA:K_2 2
+    2300066: KR_120_R2700_HA:limitMeter_CTRL
+    2300068: KR_120_R2700_HA:nurbsToPoly1093
+    2300070: KR_120_R2700_HA:nurbsToPoly1353
+    2300072: KR_120_R2700_HA:nurbsToPoly1582
+    2300074: KR_120_R2700_HA:nurbsToPoly1801
+    2300076: KR_120_R2700_HA:nurbsToPoly212
+    2300078: KR_120_R2700_HA:nurbsToPoly269
+    2300080: KR_120_R2700_HA:nurbsToPoly326
+    2300082: KR_120_R2700_HA:nurbsToPoly352
+    2300084: KR_120_R2700_HA:nurbsToPoly421
+    2300086: KR_120_R2700_HA:nurbsToPoly47
+    2300088: KR_120_R2700_HA:nurbsToPoly491
+    2300090: KR_120_R2700_HA:nurbsToPoly561
+    2300092: KR_120_R2700_HA:nurbsToPoly631
+    2300094: KR_120_R2700_HA:nurbsToPoly802
+    2300096: KR_120_R2700_HA:nurbsToPoly845
+    2300098: KR_120_R2700_HA:nurbsToPoly878
+    2300100: KR_120_R2700_HA:target_CTRL
+    2300102: KR_120_R2700_HA:tool_CTRL
+    2300104: KR_120_R2700_HA:tool_CTRL_FK
+    2300106: KR_120_R2700_HA:U
+    2300108: KR_120_R2700_HA:U 1
+    2300110: KR_120_R2700_HA:U 2
+    2300112: KR_120_R2700_HA:world_CTRL
+    3300000: KR_120_R2700_HA:A
+    3300002: KR_120_R2700_HA:A 1
+    3300004: KR_120_R2700_HA:A 2
+    3300006: KR_120_R2700_HA:a1LimitBackground
+    3300008: KR_120_R2700_HA:a1limitBar
+    3300010: KR_120_R2700_HA:a1limitEndNeg
+    3300012: KR_120_R2700_HA:a1limitEndPos
+    3300014: KR_120_R2700_HA:a2LimitBackground
+    3300016: KR_120_R2700_HA:a2limitBar
+    3300018: KR_120_R2700_HA:a2limitEndNeg
+    3300020: KR_120_R2700_HA:a2limitEndPos
+    3300022: KR_120_R2700_HA:a3LimitBackground
+    3300024: KR_120_R2700_HA:a3limitBar
+    3300026: KR_120_R2700_HA:a3limitEndNeg
+    3300028: KR_120_R2700_HA:a3limitEndPos
+    3300030: KR_120_R2700_HA:a4LimitBackground
+    3300032: KR_120_R2700_HA:a4limitBar
+    3300034: KR_120_R2700_HA:a4limitEndNeg
+    3300036: KR_120_R2700_HA:a4limitEndPos
+    3300038: KR_120_R2700_HA:a5alimitBar
+    3300040: KR_120_R2700_HA:a5LimitBackground
+    3300042: KR_120_R2700_HA:a5limitEndNeg
+    3300044: KR_120_R2700_HA:a5limitEndPos
+    3300046: KR_120_R2700_HA:a6LimitBackground
+    3300048: KR_120_R2700_HA:a6limitBar
+    3300050: KR_120_R2700_HA:a6limitEndNeg
+    3300052: KR_120_R2700_HA:a6limitEndPos
+    3300054: KR_120_R2700_HA:K_1
+    3300056: KR_120_R2700_HA:K_1 1
+    3300058: KR_120_R2700_HA:K_1 2
+    3300060: KR_120_R2700_HA:K_2
+    3300062: KR_120_R2700_HA:K_2 1
+    3300064: KR_120_R2700_HA:K_2 2
+    3300066: KR_120_R2700_HA:limitMeter_CTRL
+    3300068: KR_120_R2700_HA:nurbsToPoly1093
+    3300070: KR_120_R2700_HA:nurbsToPoly1353
+    3300072: KR_120_R2700_HA:nurbsToPoly1582
+    3300074: KR_120_R2700_HA:nurbsToPoly1801
+    3300076: KR_120_R2700_HA:nurbsToPoly212
+    3300078: KR_120_R2700_HA:nurbsToPoly269
+    3300080: KR_120_R2700_HA:nurbsToPoly326
+    3300082: KR_120_R2700_HA:nurbsToPoly352
+    3300084: KR_120_R2700_HA:nurbsToPoly421
+    3300086: KR_120_R2700_HA:nurbsToPoly47
+    3300088: KR_120_R2700_HA:nurbsToPoly491
+    3300090: KR_120_R2700_HA:nurbsToPoly561
+    3300092: KR_120_R2700_HA:nurbsToPoly631
+    3300094: KR_120_R2700_HA:nurbsToPoly802
+    3300096: KR_120_R2700_HA:nurbsToPoly845
+    3300098: KR_120_R2700_HA:nurbsToPoly878
+    3300100: KR_120_R2700_HA:target_CTRL
+    3300102: KR_120_R2700_HA:tool_CTRL
+    3300104: KR_120_R2700_HA:tool_CTRL_FK
+    3300106: KR_120_R2700_HA:U
+    3300108: KR_120_R2700_HA:U 1
+    3300110: KR_120_R2700_HA:U 2
+    3300112: KR_120_R2700_HA:world_CTRL
+    4300000: KR_120_R2700_HA:nurbsToPoly1353
+    4300002: KR_120_R2700_HA:nurbsToPoly1093
+    4300004: KR_120_R2700_HA:K_2
+    4300006: KR_120_R2700_HA:A
+    4300008: KR_120_R2700_HA:K_1
+    4300010: KR_120_R2700_HA:U
+    4300012: KR_120_R2700_HA:nurbsToPoly421
+    4300014: KR_120_R2700_HA:nurbsToPoly491
+    4300016: KR_120_R2700_HA:nurbsToPoly631
+    4300018: KR_120_R2700_HA:nurbsToPoly845
+    4300020: KR_120_R2700_HA:nurbsToPoly1582
+    4300022: KR_120_R2700_HA:nurbsToPoly352
+    4300024: KR_120_R2700_HA:nurbsToPoly1801
+    4300026: KR_120_R2700_HA:nurbsToPoly212
+    4300028: KR_120_R2700_HA:U
+    4300030: KR_120_R2700_HA:K_1
+    4300032: KR_120_R2700_HA:A
+    4300034: KR_120_R2700_HA:K_2
+    4300036: KR_120_R2700_HA:nurbsToPoly269
+    4300038: KR_120_R2700_HA:nurbsToPoly326
+    4300040: KR_120_R2700_HA:nurbsToPoly561
+    4300042: KR_120_R2700_HA:K_1
+    4300044: KR_120_R2700_HA:U
+    4300046: KR_120_R2700_HA:K_2
+    4300048: KR_120_R2700_HA:A
+    4300050: KR_120_R2700_HA:nurbsToPoly47
+    4300052: KR_120_R2700_HA:nurbsToPoly802
+    4300054: KR_120_R2700_HA:nurbsToPoly878
+    4300056: KR_120_R2700_HA:tool_CTRL_FK
+    4300058: KR_120_R2700_HA:target_CTRL
+    4300060: KR_120_R2700_HA:limitMeter_CTRL
+    4300062: KR_120_R2700_HA:a1limitBar
+    4300064: KR_120_R2700_HA:a1limitEndPos
+    4300066: KR_120_R2700_HA:a1limitEndNeg
+    4300068: KR_120_R2700_HA:a1LimitBackground
+    4300070: KR_120_R2700_HA:a2limitBar
+    4300072: KR_120_R2700_HA:a2limitEndPos
+    4300074: KR_120_R2700_HA:a2limitEndNeg
+    4300076: KR_120_R2700_HA:a2LimitBackground
+    4300078: KR_120_R2700_HA:a3limitBar
+    4300080: KR_120_R2700_HA:a3limitEndPos
+    4300082: KR_120_R2700_HA:a3limitEndNeg
+    4300084: KR_120_R2700_HA:a3LimitBackground
+    4300086: KR_120_R2700_HA:a4limitBar
+    4300088: KR_120_R2700_HA:a4limitEndPos
+    4300090: KR_120_R2700_HA:a4limitEndNeg
+    4300092: KR_120_R2700_HA:a4LimitBackground
+    4300094: KR_120_R2700_HA:a5alimitBar
+    4300096: KR_120_R2700_HA:a5limitEndPos
+    4300098: KR_120_R2700_HA:a5limitEndNeg
+    4300100: KR_120_R2700_HA:a5LimitBackground
+    4300102: KR_120_R2700_HA:a6limitBar
+    4300104: KR_120_R2700_HA:a6limitEndPos
+    4300106: KR_120_R2700_HA:a6limitEndNeg
+    4300108: KR_120_R2700_HA:a6LimitBackground
+    4300110: KR_120_R2700_HA:tool_CTRL
+    4300112: KR_120_R2700_HA:world_CTRL
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

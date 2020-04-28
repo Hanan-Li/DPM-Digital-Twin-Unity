@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: d83321e64855f6244bdf24813d5f8dad
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DM_Chassis
+    100002: DM_Cylinder_Housing
+    100004: DM_Hydraulic_Pump
+    100006: DM_Piston_Rod
+    100008: DM_Platform
+    100010: DM_Scissor_Arms_01
+    100012: DM_Scissor_Arms_02
+    100014: DM_Scissor_Arms_03
+    100016: DM_Scissor_Arms_04
+    100018: DM_Scissor_Arms_05
+    100020: DM_Scissor_Arms_06
+    100022: //RootNode
+    400000: DM_Chassis
+    400002: DM_Cylinder_Housing
+    400004: DM_Hydraulic_Pump
+    400006: DM_Piston_Rod
+    400008: DM_Platform
+    400010: DM_Scissor_Arms_01
+    400012: DM_Scissor_Arms_02
+    400014: DM_Scissor_Arms_03
+    400016: DM_Scissor_Arms_04
+    400018: DM_Scissor_Arms_05
+    400020: DM_Scissor_Arms_06
+    400022: //RootNode
+    2100000: M_Scissor_Lift
+    2300000: DM_Chassis
+    2300002: DM_Cylinder_Housing
+    2300004: DM_Piston_Rod
+    2300006: DM_Platform
+    2300008: DM_Scissor_Arms_01
+    2300010: DM_Scissor_Arms_02
+    2300012: DM_Scissor_Arms_03
+    2300014: DM_Scissor_Arms_04
+    2300016: DM_Scissor_Arms_05
+    2300018: DM_Scissor_Arms_06
+    3300000: DM_Chassis
+    3300002: DM_Cylinder_Housing
+    3300004: DM_Piston_Rod
+    3300006: DM_Platform
+    3300008: DM_Scissor_Arms_01
+    3300010: DM_Scissor_Arms_02
+    3300012: DM_Scissor_Arms_03
+    3300014: DM_Scissor_Arms_04
+    3300016: DM_Scissor_Arms_05
+    3300018: DM_Scissor_Arms_06
+    4300000: DM_Platform
+    4300002: DM_Chassis
+    4300004: DM_Scissor_Arms_05
+    4300006: DM_Scissor_Arms_04
+    4300008: DM_Scissor_Arms_03
+    4300010: DM_Scissor_Arms_06
+    4300012: DM_Scissor_Arms_02
+    4300014: DM_Scissor_Arms_01
+    4300016: DM_Piston_Rod
+    4300018: DM_Cylinder_Housing
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Scissor_Lift
+    second: {fileID: 2100000, guid: e69a4fe857b4b8a49b25021628317ee0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["DM_Platform","DM_Scissor_Arms_01","DM_Piston_Rod","DM_Scissor_Arms_02","DM_Scissor_Arms_03","DM_Scissor_Arms_04","DM_Scissor_Arms_05","DM_Scissor_Arms_06","DM_Chassis","DM_Cylinder_Housing"],"padding":[16,49,106,59,57,61,52,58,15,103]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

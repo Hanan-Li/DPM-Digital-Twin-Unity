@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: b796fb79f56f0b64eaa6584b66585dfe
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: DeM_Hydraulic_Tubes
+    100002: DM_Arm
+    100004: DM_Arm2
+    100006: DM_Arm_Piston
+    100008: DM_Arm_Piston2
+    100010: DM_Arm_Piston_End
+    100012: DM_Arm_Piston_End2
+    100014: DM_Base_Pistons
+    100016: DM_Body
+    100018: DM_Pistons_End
+    100020: DM_Shovel
+    100022: DM_Shovel_Attach
+    100024: DM_Shovel_Attach2
+    100026: //RootNode
+    100028: SM_Base
+    100030: SM_Cabin
+    100032: SM_Caterpillar
+    100034: SM_Caterpillar2
+    100036: SM_Engine_Base
+    100038: SM_Glass
+    100040: SM_Hydraulic_Base
+    100042: SM_Piston_Target
+    100044: SM_Small_stairs
+    400000: DeM_Hydraulic_Tubes
+    400002: DM_Arm
+    400004: DM_Arm2
+    400006: DM_Arm_Piston
+    400008: DM_Arm_Piston2
+    400010: DM_Arm_Piston_End
+    400012: DM_Arm_Piston_End2
+    400014: DM_Base_Pistons
+    400016: DM_Body
+    400018: DM_Pistons_End
+    400020: DM_Shovel
+    400022: DM_Shovel_Attach
+    400024: DM_Shovel_Attach2
+    400026: //RootNode
+    400028: SM_Base
+    400030: SM_Cabin
+    400032: SM_Caterpillar
+    400034: SM_Caterpillar2
+    400036: SM_Engine_Base
+    400038: SM_Glass
+    400040: SM_Hydraulic_Base
+    400042: SM_Piston_Target
+    400044: SM_Small_stairs
+    2100000: Arm
+    2100002: Glass
+    2100004: Base
+    2100006: Body
+    2300000: DeM_Hydraulic_Tubes
+    2300002: DM_Arm
+    2300004: DM_Arm2
+    2300006: DM_Arm_Piston
+    2300008: DM_Arm_Piston2
+    2300010: DM_Arm_Piston_End
+    2300012: DM_Arm_Piston_End2
+    2300014: DM_Base_Pistons
+    2300016: DM_Body
+    2300018: DM_Pistons_End
+    2300020: DM_Shovel
+    2300022: DM_Shovel_Attach
+    2300024: DM_Shovel_Attach2
+    2300026: SM_Base
+    2300028: SM_Cabin
+    2300030: SM_Caterpillar
+    2300032: SM_Caterpillar2
+    2300034: SM_Engine_Base
+    2300036: SM_Glass
+    2300038: SM_Hydraulic_Base
+    2300040: SM_Piston_Target
+    2300042: SM_Small_stairs
+    3300000: DeM_Hydraulic_Tubes
+    3300002: DM_Arm
+    3300004: DM_Arm2
+    3300006: DM_Arm_Piston
+    3300008: DM_Arm_Piston2
+    3300010: DM_Arm_Piston_End
+    3300012: DM_Arm_Piston_End2
+    3300014: DM_Base_Pistons
+    3300016: DM_Body
+    3300018: DM_Pistons_End
+    3300020: DM_Shovel
+    3300022: DM_Shovel_Attach
+    3300024: DM_Shovel_Attach2
+    3300026: SM_Base
+    3300028: SM_Cabin
+    3300030: SM_Caterpillar
+    3300032: SM_Caterpillar2
+    3300034: SM_Engine_Base
+    3300036: SM_Glass
+    3300038: SM_Hydraulic_Base
+    3300040: SM_Piston_Target
+    3300042: SM_Small_stairs
+    4300000: DM_Base_Pistons
+    4300002: DeM_Hydraulic_Tubes
+    4300004: SM_Base
+    4300006: DM_Body
+    4300008: SM_Engine_Base
+    4300010: DM_Arm
+    4300012: SM_Piston_Target
+    4300014: DM_Pistons_End
+    4300016: DM_Arm_Piston
+    4300018: DM_Arm2
+    4300020: DM_Arm_Piston_End
+    4300022: DM_Arm_Piston2
+    4300024: DM_Shovel_Attach
+    4300026: DM_Arm_Piston_End2
+    4300028: DM_Shovel_Attach2
+    4300030: DM_Shovel
+    4300032: SM_Cabin
+    4300034: SM_Glass
+    4300036: SM_Caterpillar
+    4300038: SM_Caterpillar2
+    4300040: SM_Small_stairs
+    4300042: SM_Hydraulic_Base
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm
+    second: {fileID: 2100000, guid: 3b80d89bba79dba41b9c0dd1c6ccaece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 4907e340da00b1c40a2eb6d2413fe8f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 8a3f9c73823841a47acdad11a235ee9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 7061510b28ea97d45b775b3a5fed5c45, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

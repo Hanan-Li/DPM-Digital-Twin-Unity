@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 2f88ff8ce950c8545bed7d959657f3bb
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Prefab_Cage
+    100004: Prefab_Door
+    100006: Prefab_Door 1
+    100008: Prefab_Door_Frame
+    100010: Prefab_Door_Protection
+    100012: Prefab_Ground
+    100014: Prefab_LargeWall
+    100016: Prefab_LargeWindows
+    100018: Prefab_LargeWindows 1
+    100020: Prefab_LargeWindows_Protection_L
+    100022: Prefab_LargeWindows_Protection_R
+    100024: Prefab_LargeWindows_Windows_L
+    100026: Prefab_LargeWindows_Windows_R
+    100028: Prefab_Roof
+    100030: Prefab_SmallWindows
+    100032: Prefab_SmallWindows 1
+    100034: Prefab_SmallWindows_Protection
+    100036: Prefab_SmallWindows_Windows_R
+    100038: Prefab_SmallWindows_Windows_R 1
+    100040: Prefab_Wall
+    400000: //RootNode
+    400002: Prefab_Cage
+    400004: Prefab_Door
+    400006: Prefab_Door 1
+    400008: Prefab_Door_Frame
+    400010: Prefab_Door_Protection
+    400012: Prefab_Ground
+    400014: Prefab_LargeWall
+    400016: Prefab_LargeWindows
+    400018: Prefab_LargeWindows 1
+    400020: Prefab_LargeWindows_Protection_L
+    400022: Prefab_LargeWindows_Protection_R
+    400024: Prefab_LargeWindows_Windows_L
+    400026: Prefab_LargeWindows_Windows_R
+    400028: Prefab_Roof
+    400030: Prefab_SmallWindows
+    400032: Prefab_SmallWindows 1
+    400034: Prefab_SmallWindows_Protection
+    400036: Prefab_SmallWindows_Windows_R
+    400038: Prefab_SmallWindows_Windows_R 1
+    400040: Prefab_Wall
+    2100000: M_Prefab_Cage
+    2100002: M_Prefab_Ground
+    2100004: M_Prefab_Details
+    2100006: M_Prefab_Ceilling
+    2100008: M_Prefab_Roof
+    2100010: M_Prefab_Wall
+    2100012: M_Prefab_Frame
+    2100014: M_Prefab_Glass
+    2300000: Prefab_Cage
+    2300002: Prefab_Door 1
+    2300004: Prefab_Door_Frame
+    2300006: Prefab_Door_Protection
+    2300008: Prefab_Ground
+    2300010: Prefab_LargeWall
+    2300012: Prefab_LargeWindows 1
+    2300014: Prefab_LargeWindows_Protection_L
+    2300016: Prefab_LargeWindows_Protection_R
+    2300018: Prefab_LargeWindows_Windows_L
+    2300020: Prefab_LargeWindows_Windows_R
+    2300022: Prefab_Roof
+    2300024: Prefab_SmallWindows 1
+    2300026: Prefab_SmallWindows_Protection
+    2300028: Prefab_SmallWindows_Windows_R
+    2300030: Prefab_SmallWindows_Windows_R 1
+    2300032: Prefab_Wall
+    3300000: Prefab_Cage
+    3300002: Prefab_Door 1
+    3300004: Prefab_Door_Frame
+    3300006: Prefab_Door_Protection
+    3300008: Prefab_Ground
+    3300010: Prefab_LargeWall
+    3300012: Prefab_LargeWindows 1
+    3300014: Prefab_LargeWindows_Protection_L
+    3300016: Prefab_LargeWindows_Protection_R
+    3300018: Prefab_LargeWindows_Windows_L
+    3300020: Prefab_LargeWindows_Windows_R
+    3300022: Prefab_Roof
+    3300024: Prefab_SmallWindows 1
+    3300026: Prefab_SmallWindows_Protection
+    3300028: Prefab_SmallWindows_Windows_R
+    3300030: Prefab_SmallWindows_Windows_R 1
+    3300032: Prefab_Wall
+    4300000: Prefab_Cage
+    4300002: Prefab_Ground
+    4300004: Prefab_Roof
+    4300006: Prefab_LargeWall
+    4300008: Prefab_Wall
+    4300010: Prefab_LargeWindows_Protection_R
+    4300012: Prefab_LargeWindows_Protection_L
+    4300014: Prefab_LargeWindows
+    4300016: Prefab_LargeWindows_Windows_R
+    4300018: Prefab_LargeWindows_Windows_L
+    4300020: Prefab_Door_Frame
+    4300022: Prefab_Door
+    4300024: Prefab_Door_Protection
+    4300026: Prefab_SmallWindows
+    4300028: Prefab_SmallWindows_Windows_R
+    4300030: Prefab_SmallWindows_Windows_R
+    4300032: Prefab_SmallWindows_Protection
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Cage
+    second: {fileID: 2100000, guid: c9691a19cf90052449630deea5795da1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Ceilling
+    second: {fileID: 2100000, guid: 8b7aaa6e4a284ab45be23ee0514ad4ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Details
+    second: {fileID: 2100000, guid: 806a3407169c7894eb6259ffd7581605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Frame
+    second: {fileID: 2100000, guid: 855f2810dbc738b4184e3ff861fba69e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Glass
+    second: {fileID: 2100000, guid: e4a24da8850dd624092d489a17841d84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Ground
+    second: {fileID: 2100000, guid: d416db8d3aa907a44be2494ae08c0d27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Roof
+    second: {fileID: 2100000, guid: d87e3276d70e6e5498b2c10b20248bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Prefab_Wall
+    second: {fileID: 2100000, guid: e6717a0dbfcdbc245b1a37d58c7e2b7f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Prefab_Cage","Prefab_Ground","Prefab_LargeWall","Prefab_LargeWindows_Windows_R","Prefab_Roof","Prefab_SmallWindows_Windows_R","Prefab_Door_Frame","Prefab_SmallWindows_Protection","Prefab_Wall","Prefab_SmallWindows","Prefab_Door_Protection","Prefab_LargeWindows","Prefab_Door","Prefab_LargeWindows_Protection_L","Prefab_LargeWindows_Protection_R","Prefab_LargeWindows_Windows_L"],"padding":[18,23,23,55,23,84,59,110,31,33,109,25,32,110,110,55]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
